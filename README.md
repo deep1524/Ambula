@@ -13,7 +13,7 @@ For Server npm run server
 
 ## Demo
 
-[https://crystalgoldshop.netlify.app](https://lucent-choux-755732.netlify.app/)
+https://lucent-choux-755732.netlify.app/
 
 ##  Tech-stack used
   
