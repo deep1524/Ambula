@@ -1,0 +1,72 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "completed login process",
+      "description": " take 2 days for login process",
+      "status": "Completed"
+    },
+    {
+      "id": "3",
+      "title": "completed product page ",
+      "description": "take 4 days to complete ",
+      "status": "Pending"
+    },
+    {
+      "id": "lk14u4hm",
+      "title": "payment task",
+      "description": "take 2 days to complete ",
+      "status": "Pending"
+    },
+    {
+      "id": "lk15ived",
+      "title": "sorting task ",
+      "description": "take 2 hour to complete ",
+      "status": "Pending"
+    },
+    {
+      "id": "lk3h6mtc",
+      "title": "dsnbdx",
+      "description": "cmncx",
+      "status": "Pending"
+    }
+  ],
+  "inquiry": [
+    {
+      "id": "lk15ived",
+      "name": "Deep ",
+      "email": "dkits1995@gmail.com",
+      "phone": "7017674532"
+    },
+    {
+      "id": "lk3r5y8n",
+      "name": "Deep",
+      "email": "dkits1995@gmail.com",
+      "phone": "7017674532"
+    },
+    {
+      "id": "lk3r8f98",
+      "name": "pooja",
+      "email": "pooja@gmail.com",
+      "phone": "7845129632"
+    },
+    {
+      "id": "lk3ra6r6",
+      "name": "uday",
+      "email": "uday@gmail.com",
+      "phone": "457812962"
+    },
+    {
+      "id": "lk3rbaen",
+      "name": "dk",
+      "email": "dkits@gmail.com",
+      "phone": "9632145789"
+    },
+    {
+      "id": "lk3rci5k",
+      "name": "pk",
+      "email": "pk@gmail.com",
+      "phone": "1245789632"
+    }
+  ]
+}
