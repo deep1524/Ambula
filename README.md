@@ -13,7 +13,7 @@ For Server npm run server
 
 ## Demo
 
-https://crystalgoldshop.netlify.app
+[https://crystalgoldshop.netlify.app](https://lucent-choux-755732.netlify.app/)
 
 ##  Tech-stack used
   
@@ -30,8 +30,12 @@ Frontend : React js, Javascript Tailwind CSS , daisyUI
 
 
   **Sample Page Images**
-  ---
-  ![Screenshot (1310)](https://github.com/deep1524/Stamurai/assets/105913793/47d1007a-5ef0-46c0-b5de-07ce0bbc4ff8)
+  ---![Screenshot (1311)](https://github.com/deep1524/Ambula/assets/105913793/53d47672-96f9-4f7c-99fd-926871933b11)
+  ![Screenshot (1312)](https://github.com/deep1524/Ambula/assets/105913793/2df43c57-f98a-4b82-85ba-cc7d0bc431f8)
+
+
+ 
+![Screenshot (1313)](https://github.com/deep1524/Ambula/assets/105913793/f15e6a43-e28d-4a27-be21-ca1648887202)
 
 
 
